@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300;400;500;600;700&display=swap');
+
+:root {
+	--primary-font: 'Oswald', sans-serif;
+	--secondary-font: 'Teko', sans-serif;
+	--primary-color: #fb5607;
+	--secondary-color: hsl(219, 29%, 14%);
+	--light-color: #f8f9fa;
+	--light-gray-color: #e5e5e5;
+	--dark-color: #424850;
+	--max-width: 100rem;
+}
